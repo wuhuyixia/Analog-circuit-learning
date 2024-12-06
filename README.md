@@ -19,5 +19,10 @@ https://www.eetree.cn/circuitjs/circuitjs.html
 
 书籍推荐
 
-    记得看网盘
+    Ti大学计划运放选型、原理、设计等基础知识手册
+
+
+网站
+    
+   [21iC](https://www.21ic.com/)
 
