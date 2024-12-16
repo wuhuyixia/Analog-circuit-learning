@@ -4,6 +4,8 @@
 * QFP (Quad Flat Package): 四方扁平封装。
 * SIP (Single In-line Package): 单列直插式封装。
 
+![](/picture/12/img_42.png)
+
 学习了封装画法
 
 ![](/picture/img_18.png)
@@ -67,3 +69,4 @@ R01即0.01Ω，精度1%
 ![](/picture/img_20.png)
 
 
+# 

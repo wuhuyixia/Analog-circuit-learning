@@ -20,6 +20,7 @@ https://www.eetree.cn/circuitjs/circuitjs.html
 书籍推荐
 
     Ti大学计划运放选型、原理、设计等基础知识手册
+    电子学（Paul Horowitz）
 
 
 网站
@@ -35,3 +36,9 @@ https://www.eetree.cn/circuitjs/circuitjs.html
 Markdown
 
 [表格制作](https://tableconvert.com/)
+
+STM32
+
+[野火](zhttps://doc.embedfire.com/mcu/stm32/f103mini/std/zh/latest/book/First_acquaintance.html#id1)
+
+    STM32F103XXX中文参考手册
