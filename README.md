@@ -26,3 +26,12 @@ https://www.eetree.cn/circuitjs/circuitjs.html
     
    [21iC](https://www.21ic.com/)
 
+[TI培训](https://edu.21ic.com/)
+
+软件
+
+    ADS、ltspice
+
+Markdown
+
+[表格制作](https://tableconvert.com/)
