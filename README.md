@@ -21,7 +21,7 @@ https://www.eetree.cn/circuitjs/circuitjs.html
 
     Ti大学计划运放选型、原理、设计等基础知识手册
     电子学（Paul Horowitz）
-
+    信号完整性分析（SI）、电磁兼容性分析（EMC）、电源完整性分析（PI）。 只讲可制造性分析（DFM) 
 
 ## 网站
     
@@ -74,3 +74,4 @@ https://www.eetree.cn/circuitjs/circuitjs.html
 [野火](zhttps://doc.embedfire.com/mcu/stm32/f103mini/std/zh/latest/book/First_acquaintance.html#id1)
 
     STM32F103XXX中文参考手册
+
