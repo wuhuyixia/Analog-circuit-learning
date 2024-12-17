@@ -8,13 +8,13 @@
 
 学习了封装画法
 
-![](/picture/img_18.png)
+![](/picture/11/img_18.png)
 
 训练题1：
     
     https://oshwhub.com/course-examples/kao-ti-51-dan-pian-ji-kai-fa-ban
 
-![](/picture/img_19.png)
+![](/picture/11/img_19.png)
 
 # 11-25
 
@@ -64,9 +64,9 @@ R01即0.01Ω，精度1%
 
 通过改变电阻实现占空比的调节
 
-![](/picture/20.png)
+![](/picture/11/20.png)
 
-![](/picture/img_20.png)
+![](/picture/11/img_20.png)
 
 
 # 
