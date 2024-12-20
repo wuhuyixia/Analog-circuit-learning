@@ -29,6 +29,8 @@ https://www.eetree.cn/circuitjs/circuitjs.html
 
 [TI培训](https://edu.21ic.com/)
 
+[硬汉嵌入式](https://www.armbbs.cn/forum.php?gid=24)
+
 ## 软件
 
     ADS、ltspice

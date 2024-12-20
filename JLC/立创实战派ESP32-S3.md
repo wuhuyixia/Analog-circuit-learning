@@ -2,6 +2,8 @@
 
 ## CH340K
 
+    https://item.szlcsc.com/datasheet/CH340K/1056391.html
+
 ![](/JLC/Images/24/12/img.png)
 
 ![](/JLC/Images/24/12/img_1.png)
