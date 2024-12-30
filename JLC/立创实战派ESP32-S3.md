@@ -67,3 +67,17 @@
     I (314) main_task: Returned from app_main()
     GPIO[0] intr, val: 0
 
+### BLINK
+
+![](/JLC/Images/24/12/img_10.png)
+
+![](/JLC/Images/24/12/img_11.png)
+
+拓展接口是gpio10和11
+
+![](/JLC/Images/24/12/img_12.png)
+
+![](/JLC/Images/24/12/img_13.png)
+
+选择io0为输出，如果你要获取当前的电平状态，请把此配置`io_conf.mode`模式为`GPIO_MODE_INPUT`，表示为输入模式；\
+按住boot案件实现打印输出的电平变化
